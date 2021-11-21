@@ -1,2 +1,2 @@
-# learning how to sue git
+# learning-t
 this repo was used to learn git 
