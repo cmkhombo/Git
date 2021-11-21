@@ -1,1 +1,2 @@
-funk man()
+package main
+funk man() {}
