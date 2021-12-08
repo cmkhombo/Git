@@ -1,2 +1,0 @@
-package main
-funk man() {}
